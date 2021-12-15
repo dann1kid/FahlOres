@@ -1,0 +1,128 @@
+[
+  {
+    "op": "remove",
+    "path": "/fpHandTransformByType/@*-(copper|tinbronze|bismuthbronze|blackbronze)",
+    "file": "itemtypes/toolhead/spearhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/fpHandTransformByType/@*-(copper|tinbronze|arsenicbronze|bismuthbronze|blackbronze)",
+    "value": {
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": -23,
+        "y": 127,
+        "z": 81
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0.06,
+        "z": 0.51
+      },
+      "scale": 2.5
+    },
+    "file": "itemtypes/toolhead/spearhead.json"
+  },
+  {
+    "op": "remove",
+    "path": "/groundTransformByType/@*-(copper|tinbronze|bismuthbronze|blackbronze)",
+    "file": "itemtypes/toolhead/spearhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/groundTransformByType/@*-(copper|tinbronze|arsenicbronze|bismuthbronze|blackbronze)",
+    "value": {
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 90,
+        "y": -5,
+        "z": 0
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0.05,
+        "z": 0.52
+      },
+      "scale": 4.63
+    },
+    "file": "itemtypes/toolhead/spearhead.json"
+  },
+  {
+    "op": "remove",
+    "path": "/guiTransformByType/@*-(copper|tinbronze|bismuthbronze|blackbronze)",
+    "file": "itemtypes/toolhead/spearhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/guiTransformByType/@*-(copper|tinbronze|arsenicbronze|bismuthbronze|blackbronze)",
+    "value": {
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 43,
+        "y": 28,
+        "z": -59
+      },
+      "origin": {
+        "x": 0.45,
+        "y": 0.02,
+        "z": 0.5
+      },
+      "scale": 3.51
+    },
+    "file": "itemtypes/toolhead/spearhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/shapeByType/spearhead-arsenicbronze",
+    "value": {
+      "base": "item/tool/spearhead-metal"
+    },
+    "file": "itemtypes/toolhead/spearhead.json"
+  },
+  {
+    "op": "remove",
+    "path": "/tpHandTransformByType/@*-(copper|tinbronze|bismuthbronze|blackbronze)",
+    "file": "itemtypes/toolhead/spearhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/tpHandTransformByType/@*-(copper|tinbronze|arsenicbronze|bismuthbronze|blackbronze)",
+    "value": {
+      "translation": {
+        "x": -0.8,
+        "y": -0.1,
+        "z": -0.6
+      },
+      "rotation": {
+        "x": -19,
+        "y": -22,
+        "z": -22
+      },
+      "origin": {
+        "x": 0.5,
+        "y": 0,
+        "z": 0.5
+      },
+      "scale": 0.82
+    },
+    "file": "itemtypes/toolhead/spearhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/9",
+    "value": "arsenicbronze",
+    "file": "itemtypes/toolhead/spearhead.json"
+  }
+]

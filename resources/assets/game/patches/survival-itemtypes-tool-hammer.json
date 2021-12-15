@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/attackpowerbytype/hammer-arsenicbronze",
+    "value": 1.5,
+    "file": "itemtypes/tool/hammer.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilitybytype/hammer-arsenicbronze",
+    "value": 900,
+    "file": "itemtypes/tool/hammer.json"
+  },
+  {
+    "op": "add",
+    "path": "/tooltierbytype/*-arsenicbronze",
+    "value": 3,
+    "file": "itemtypes/tool/hammer.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/3",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/hammer.json"
+  }
+]

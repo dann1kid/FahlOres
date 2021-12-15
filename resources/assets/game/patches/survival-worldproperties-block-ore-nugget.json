@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/variants/17",
+    "value": {
+      "Code": "tennantite"
+    },
+    "file": "worldproperties/block/ore-nugget.json"
+  }
+]

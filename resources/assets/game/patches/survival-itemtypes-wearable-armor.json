@@ -1,0 +1,127 @@
+[
+  {
+    "op": "add",
+    "path": "/allowedVariants/6",
+    "value": "armor-*-lamellar-arsenicbronze",
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/protectionModifiersByType/armor-*-brigandine-arsenicbronze",
+    "value": {
+      "relativeProtection": 0.8,
+      "flatDamageReduction": 1.1,
+      "protectionTier": 2
+    },
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/protectionModifiersByType/armor-*-chain-arsenicbronze",
+    "value": {
+      "relativeProtection": 0.82,
+      "flatDamageReduction": 1.2,
+      "protectionTier": 2
+    },
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/protectionModifiersByType/armor-*-lamellar-arsenicbronze",
+    "value": {
+      "relativeProtection": 0.77,
+      "flatDamageReduction": 0.6,
+      "protectionTier": 2
+    },
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/protectionModifiersByType/armor-*-plate-arsenicbronze",
+    "value": {
+      "relativeProtection": 0.92,
+      "flatDamageReduction": 1.6,
+      "highDamageTierResistant": true,
+      "protectionTier": 2
+    },
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/protectionModifiersByType/armor-*-scale-arsenicbronze",
+    "value": {
+      "relativeProtection": 0.86,
+      "flatDamageReduction": 1.35,
+      "protectionTier": 2
+    },
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilityByType/armor-*-brigandine-arsenicbronze",
+    "value": 1100,
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilityByType/armor-*-chain-arsenicbronze",
+    "value": 700,
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilityByType/armor-*-lamellar-arsenicbronze",
+    "value": 600,
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilityByType/armor-*-plate-arsenicbronze",
+    "value": 1000,
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilityByType/armor-*-scale-arsenicbronze",
+    "value": 1200,
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/shapeByType/armor-head-brigandine-arsenicbronze",
+    "value": {
+      "base": "entity/humanoid/seraph/armor/{construction}/{bodypart}-bronze"
+    },
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/shapeByType/armor-head-chain-arsenicbronze",
+    "value": {
+      "base": "entity/humanoid/seraph/armor/{construction}/{bodypart}-bronze"
+    },
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/shapeByType/armor-head-plate-arsenicbronze",
+    "value": {
+      "base": "entity/humanoid/seraph/armor/{construction}/{bodypart}-bronze"
+    },
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/shapeByType/armor-head-scale-arsenicbronze",
+    "value": {
+      "base": "entity/humanoid/seraph/armor/{construction}/{bodypart}-bronze"
+    },
+    "file": "itemtypes/wearable/armor.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/2/states/5",
+    "value": "arsenicbronze",
+    "file": "itemtypes/wearable/armor.json"
+  }
+]

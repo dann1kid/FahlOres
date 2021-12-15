@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/combustiblePropsByType/metalplate-arsenicbronze",
+    "value": {
+      "meltingPoint": 850,
+      "meltingDuration": 30,
+      "smeltedRatio": 1,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-arsenicbronze",
+        "stacksize": 2
+      }
+    },
+    "file": "itemtypes/resource/metalplate.json"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "op": "add",
+    "path": "/attackpowerbytype/axe-arsenicbronze",
+    "value": 3,
+    "file": "itemtypes/tool/axe-metal.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilitybytype/axe-arsenicbronze",
+    "value": 600,
+    "file": "itemtypes/tool/axe-metal.json"
+  },
+  {
+    "op": "add",
+    "path": "/miningspeedbytype/axe-arsenicbronze",
+    "value": {
+      "wood": 5.8,
+      "plant": 3.8,
+      "leaves": 3
+    },
+    "file": "itemtypes/tool/axe-metal.json"
+  },
+  {
+    "op": "add",
+    "path": "/shapeByType/*-arsenicbronze",
+    "value": {
+      "base": "item/tool/axe-copper"
+    },
+    "file": "itemtypes/tool/axe-metal.json"
+  },
+  {
+    "op": "add",
+    "path": "/tooltierbytype/*-arsenicbronze",
+    "value": 3,
+    "file": "itemtypes/tool/axe-metal.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/4",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/axe-metal.json"
+  }
+]

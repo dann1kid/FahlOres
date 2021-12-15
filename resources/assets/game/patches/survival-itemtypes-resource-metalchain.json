@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/combustiblePropsByType/metalchain-arscenicbronze",
+    "value": {
+      "meltingPoint": 950,
+      "meltingDuration": 30,
+      "smeltedRatio": 1,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-arscenicbronze",
+        "stacksize": 2
+      }
+    },
+    "file": "itemtypes/resource/metalchain.json"
+  }
+]

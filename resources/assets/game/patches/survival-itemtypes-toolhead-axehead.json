@@ -1,0 +1,44 @@
+[
+  {
+    "op": "remove",
+    "path": "/guiTransformByType/@*-(copper|tinbronze|bismuthbronze|blackbronze)",
+    "file": "itemtypes/toolhead/axehead.json"
+  },
+  {
+    "op": "add",
+    "path": "/guiTransformByType/@*-(copper|tinbronze|arsenicbronze|bismuthbronze|blackbronze)",
+    "value": {
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 100
+      },
+      "rotation": {
+        "x": -57,
+        "y": -119,
+        "z": -180
+      },
+      "origin": {
+        "x": 0.78,
+        "y": 0.46,
+        "z": 0.3
+      },
+      "scale": 3.1
+    },
+    "file": "itemtypes/toolhead/axehead.json"
+  },
+  {
+    "op": "add",
+    "path": "/shapeByType/*-arsenicbronze",
+    "value": {
+      "base": "item/tool/axe-copper"
+    },
+    "file": "itemtypes/toolhead/axehead.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/9",
+    "value": "arsenicbronze",
+    "file": "itemtypes/toolhead/axehead.json"
+  }
+]

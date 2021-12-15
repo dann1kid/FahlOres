@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/combustiblePropsByType/*-tennantite",
+    "value": {
+      "meltingPoint": 860,
+      "meltingDuration": 30,
+      "smeltedRatio": 20,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-arsenicbronze"
+      }
+    },
+    "file": "itemtypes/resource/nugget.json"
+  },
+  {
+    "op": "replace",
+    "path": "/combustiblePropsByType/*-nativecopper/smeltedRatio",
+    "value": 26,
+    "file": "itemtypes/resource/nugget.json"
+  }
+]

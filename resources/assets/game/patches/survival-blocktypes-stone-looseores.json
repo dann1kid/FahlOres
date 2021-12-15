@@ -1,0 +1,74 @@
+[
+  {
+    "op": "add",
+    "path": "/allowedVariants/37",
+    "value": "looseores-tennantite-granite-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/38",
+    "value": "looseores-tennantite-basalt-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/39",
+    "value": "looseores-tennantite-slate-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/40",
+    "value": "looseores-tennantite-andesite-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/41",
+    "value": "looseores-tennantite-peridotite-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/42",
+    "value": "looseores-tennantite-claystone-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/43",
+    "value": "looseores-tennantite-sandstone-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/44",
+    "value": "looseores-tennantite-shale-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/45",
+    "value": "looseores-tennantite-chalk-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/46",
+    "value": "looseores-tennantite-chert-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/47",
+    "value": "looseores-tennantite-conglomerate-free",
+    "file": "blocktypes/stone/looseores.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/48",
+    "value": "looseores-tennantite-phyllite-free",
+    "file": "blocktypes/stone/looseores.json"
+  }
+]

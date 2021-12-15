@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/textures/arsenicbronze",
+    "value": {
+      "base": "block/metal/ingot/arsenicbronze"
+    },
+    "file": "blocktypes/metal/ingotpile.json"
+  }
+]

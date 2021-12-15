@@ -1,0 +1,45 @@
+[
+  {
+    "op": "remove",
+    "path": "/guiTransformByType/@shovelhead-(copper|tinbronze|bismuthbronze|blackbronze|iron|meteoriciron|gold|silver|steel)",
+    "file": "itemtypes/toolhead/shovelhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/guiTransformByType/@shovelhead-(copper|tinbronze|arsenicbronze|bismuthbronze|blackbronze|iron|meteoriciron|gold|silver|steel)",
+    "value": {
+      "rotate": false,
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 4
+      },
+      "rotation": {
+        "x": 141,
+        "y": 33,
+        "z": -38
+      },
+      "origin": {
+        "x": 0.52,
+        "y": 0.29,
+        "z": 0.3
+      },
+      "scale": 2.24
+    },
+    "file": "itemtypes/toolhead/shovelhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/shapeByType/*-arsenicbronze",
+    "value": {
+      "base": "item/tool/shovelhead-copper"
+    },
+    "file": "itemtypes/toolhead/shovelhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/9",
+    "value": "arsenicbronze",
+    "file": "itemtypes/toolhead/shovelhead.json"
+  }
+]

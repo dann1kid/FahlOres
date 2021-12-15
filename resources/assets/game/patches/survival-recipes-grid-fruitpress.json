@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/ingredients/I/allowedVariants/2",
+    "value": "arsenicbronze",
+    "file": "recipes/grid/fruitpress.json"
+  }
+]

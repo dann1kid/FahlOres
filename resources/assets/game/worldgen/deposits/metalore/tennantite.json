@@ -1,0 +1,56 @@
+[
+	{
+		code: "tennantite",
+		_comment: "Surface tennantite deposits",
+		triesPerChunk: 0.2,
+		generator: "disc-followsurface",
+		attributes: {
+			inblock: { code: "rock-*", name: "rock", allowedVariants: ["andesite", "granite", "basalt", "peridotite", "claystone", "sandstone", "shale", "chalk", "chert", "conglomerate", "phyllite", "slate"] },
+			placeblock: {
+				code: "ore-*-tennantite-{rock}",
+				name: "grade",
+				allowedVariantsByInBlock: {
+					"@rock-(andesite|granite|peridotite|claystone|sandstone|shale|chalk|chert|conglomerate|phyllite|slate)": ["poor", "medium"],
+					"rock-basalt": ["poor", "medium", "rich"]
+				}
+			},
+			surfaceBlock: { code: "looseores-tennantite-{rock}-free" },
+			surfaceBlockChance: 0.33,
+			radius: { dist: "uniform", avg: 4.25, var: 1 },
+			yPosRel: {dist: "uniform", avg: 0.965, var: 0.03 },
+			thickness: { dist: "stronginvexp", avg: 1, var: 1 },
+		}
+	},
+	{
+		code: "tennantite",
+		_comment: "Deep native tennantite deposits",
+		triesPerChunk: 25,
+		withOreMap: true,
+		handbookPageCode: "item-nugget-tennantite",
+		generator: "disc-followsurface",
+		attributes: {
+			inblock: { code: "rock-*", name: "rock", allowedVariants: ["andesite", "granite", "basalt", "peridotite", "claystone", "sandstone", "shale", "chalk", "chert", "conglomerate", "phyllite", "slate"] },
+			placeblock: { 
+				code: "ore-*-tennantite-{rock}", 
+				name: "grade", 
+				allowedVariantsByInBlock: {
+					"rock-andesite": ["poor", "medium", "rich"],
+					"rock-granite": ["poor", "medium", "rich"],
+					"rock-basalt": ["poor", "medium", "bountiful"],
+					"rock-peridotite": ["poor", "medium", "rich"],
+					"rock-claystone": ["poor", "medium"],
+					"rock-sandstone": ["poor", "medium"],
+					"rock-shale": ["poor", "medium"],
+					"rock-chalk": ["poor", "medium"],
+					"rock-chert": ["poor", "medium"],
+					"rock-conglomerate": ["poor", "medium"],
+					"rock-phyllite": ["poor", "medium", "rich"],
+					"rock-slate": ["poor", "medium", "rich"]
+				}
+			},
+			radius: { dist: "uniform", avg: 7, var: 3 },
+			yPosRel: {dist: "uniform", avg: 0.3, var: 0.3 },
+			thickness: { dist: "stronginvexp", avg: 1, var: 2 }
+		}
+	}
+]

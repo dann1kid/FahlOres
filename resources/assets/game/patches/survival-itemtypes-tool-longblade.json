@@ -1,0 +1,35 @@
+[
+  {
+    "op": "add",
+    "path": "/attackpowerbytype/longblade-arsenicbronze",
+    "value": 3.75,
+    "file": "itemtypes/tool/longblade.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilitybytype/longblade-arsenicbronze",
+    "value": 530,
+    "file": "itemtypes/tool/longblade.json"
+  },
+  {
+    "op": "add",
+    "path": "/miningspeedbytype/longblade-arsenicbronze",
+    "value": {
+      "wood": 2.4,
+      "leaves": 2.2
+    },
+    "file": "itemtypes/tool/longblade.json"
+  },
+  {
+    "op": "add",
+    "path": "/tooltierbytype/*-arsenicbronze",
+    "value": 3,
+    "file": "itemtypes/tool/longblade.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/3",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/longblade.json"
+  }
+]

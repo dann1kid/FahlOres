@@ -1,0 +1,124 @@
+[
+  {
+    "op": "add",
+    "path": "/attackpowerbytype/hoe-arsenicbronze",
+    "value": 1.5,
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "remove",
+    "path": "/attributes/toolrackTransformByType/@hoe-(copper|tinbronze|bismuthbronze|blackbronze|gold|silver|iron|meteoriciron|steel)",
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/toolrackTransformByType/@hoe-(copper|tinbronze|arsenicbronze|bismuthbronze|blackbronze|gold|silver|iron|meteoriciron|steel)",
+    "value": {
+      "rotation": {
+        "y": 1,
+        "z": -1
+      },
+      "translation": {
+        "x": -0.25,
+        "y": 0.6
+      },
+      "scale": 1.25
+    },
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilitybytype/hoe-arsenicbronze",
+    "value": 330,
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "remove",
+    "path": "/guiTransformByType/@hoe-(copper|tinbronze|bismuthbronze|blackbronze|gold|silver|iron|meteoriciron|steel)",
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "add",
+    "path": "/guiTransformByType/@hoe-(copper|tinbronze|arsenicbronze|bismuthbronze|blackbronze|gold|silver|iron|meteoriciron|steel)",
+    "value": {
+      "rotate": false,
+      "translation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": -56,
+        "y": -127,
+        "z": -180
+      },
+      "origin": {
+        "x": 0.35,
+        "y": 0,
+        "z": 0.55
+      },
+      "scale": 1.43
+    },
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "add",
+    "path": "/miningspeedbytype/hoe-arsenicbronze",
+    "value": {
+      "soil": 3.2
+    },
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "add",
+    "path": "/shapeByType/*-arsenicbronze",
+    "value": {
+      "base": "item/tool/hoe-copper"
+    },
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "remove",
+    "path": "/texturesByType/@hoe-(copper|tinbronze|bismuthbronze|blackbronze|gold|silver|iron|meteoriciron|steel)",
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "add",
+    "path": "/texturesByType/@hoe-(copper|tinbronze|bismuthbronze|arsenicbronze|blackbronze|gold|silver|iron|meteoriciron|steel)",
+    "value": {
+      "material": {
+        "base": "block/metal/ingot/{material}"
+      }
+    },
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "remove",
+    "path": "/tpHandTransformByType/@hoe-(copper|tinbronze|bismuthbronze|blackbronze|gold|silver|iron|meteoriciron|steel)",
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "add",
+    "path": "/tpHandTransformByType/@hoe-(copper|tinbronze|arsenicbronze|bismuthbronze|blackbronze|gold|silver|iron|meteoriciron|steel)",
+    "value": {
+      "translation": {
+        "x": -1,
+        "y": -0.5,
+        "z": -0.08
+      },
+      "rotation": {
+        "x": 90,
+        "y": 0,
+        "z": -5
+      },
+      "scale": 1
+    },
+    "file": "itemtypes/tool/hoe.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/9",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/hoe.json"
+  }
+]

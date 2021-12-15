@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/variants/21",
+    "value": {
+      "code": "arsenicbronze",
+      "tier": 2
+    },
+    "file": "worldproperties/block/metal.json"
+  }
+]

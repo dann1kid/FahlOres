@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/combustiblePropsByType/metalsheet-arsenicbronze",
+    "value": {
+      "meltingPoint": 800,
+      "meltingDuration": 30,
+      "smeltedRatio": 1,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-arsenicbronze"
+      }
+    },
+    "file": "blocktypes/metal/sheet.json"
+  }
+]

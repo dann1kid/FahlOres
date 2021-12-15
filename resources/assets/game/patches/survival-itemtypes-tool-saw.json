@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/durabilitybytype/saw-arsenicbronze",
+    "value": 400,
+    "file": "itemtypes/tool/saw.json"
+  },
+  {
+    "op": "add",
+    "path": "/miningspeedbytype/*-arsenicbronze",
+    "value": {
+      "wood": 4.6,
+      "leaves": 3
+    },
+    "file": "itemtypes/tool/saw.json"
+  },
+  {
+    "op": "add",
+    "path": "/tooltierbytype/saw-arsenicbronze",
+    "value": 3,
+    "file": "itemtypes/tool/saw.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/2",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/saw.json"
+  }
+]

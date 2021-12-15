@@ -1,0 +1,14 @@
+{
+  "type": "content",
+  "name": "Fahl Ores",
+  "modid": "fahlores",
+  "version": "1.0.0",
+
+  "description": "Adds fahl ores",
+  "website": "XXXXX",
+  "authors": [ "YourCreator" ],
+
+  "dependencies": {
+  "game": "1.15.0"
+  }
+}

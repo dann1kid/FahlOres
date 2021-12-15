@@ -1,0 +1,20 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/breakChanceOnImpactByType/*-arsenicbronze",
+    "value": 0.125,
+    "file": "itemtypes/tool/arrow.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/damageByType/*-arsenicbronze",
+    "value": 1,
+    "file": "itemtypes/tool/arrow.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/4",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/arrow.json"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/reinforcementStrengthByType/*-arsenicbronze",
+    "value": 300,
+    "file": "itemtypes/resource/ingot.json"
+  },
+  {
+    "op": "add",
+    "path": "/combustiblePropsByType/ingot-arsenic-bronze",
+    "value": {
+      "meltingPoint": 870,
+      "meltingDuration": 30,
+      "smeltedRatio": 1,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-arsenicbronze"
+      }
+    },
+    "file": "itemtypes/resource/ingot.json"
+  },
+  {
+    "op": "add",
+    "path": "/materialDensityByType/*-arsenicbronze",
+    "value": 9000,
+    "file": "itemtypes/resource/ingot.json"
+  }
+]

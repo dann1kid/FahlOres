@@ -1,0 +1,188 @@
+[
+  {
+    "op": "add",
+    "path": "/allowedVariants/99",
+    "value": "crystalizedore-poor-tennantite-granite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/100",
+    "value": "crystalizedore-medium-tennantite-granite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/101",
+    "value": "crystalizedore-rich-tennantite-granite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/102",
+    "value": "crystalizedore-poor-tennantite-basalt",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/103",
+    "value": "crystalizedore-medium-tennantite-basalt",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/104",
+    "value": "crystalizedore-rich-tennantite-basalt",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/105",
+    "value": "crystalizedore-bountiful-tennantite-basalt",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/106",
+    "value": "crystalizedore-poor-tennantite-slate",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/107",
+    "value": "crystalizedore-medium-tennantite-slate",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/108",
+    "value": "crystalizedore-rich-tennantite-slate",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/109",
+    "value": "crystalizedore-poor-tennantite-andesite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/110",
+    "value": "crystalizedore-medium-tennantite-andesite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/111",
+    "value": "crystalizedore-rich-tennantite-andesite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/112",
+    "value": "crystalizedore-poor-tennantite-peridotite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/113",
+    "value": "crystalizedore-medium-tennantite-peridotite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/114",
+    "value": "crystalizedore-rich-tennantite-peridotite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/115",
+    "value": "crystalizedore-poor-tennantite-claystone",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/116",
+    "value": "crystalizedore-medium-tennantite-claystone",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/117",
+    "value": "crystalizedore-poor-tennantite-sandstone",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/118",
+    "value": "crystalizedore-medium-tennantite-sandstone",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/119",
+    "value": "crystalizedore-poor-tennantite-shale",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/120",
+    "value": "crystalizedore-medium-tennantite-shale",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/121",
+    "value": "crystalizedore-poor-tennantite-chalk",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/122",
+    "value": "crystalizedore-medium-tennantite-chalk",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/123",
+    "value": "crystalizedore-poor-tennantite-chert",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/124",
+    "value": "crystalizedore-medium-tennantite-chert",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/125",
+    "value": "crystalizedore-poor-tennantite-conglomerate",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/126",
+    "value": "crystalizedore-medium-tennantite-conglomerate",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/127",
+    "value": "crystalizedore-poor-tennantite-phyllite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/128",
+    "value": "crystalizedore-medium-tennantite-phyllite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/129",
+    "value": "crystalizedore-rich-tennantite-phyllite",
+    "file": "itemtypes/resource/crystalizedore-graded.json"
+  }
+]

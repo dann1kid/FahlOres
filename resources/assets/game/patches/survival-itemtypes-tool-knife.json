@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/attackpowerbytype/knife-arsenicbronze",
+    "value": 2.5,
+    "file": "itemtypes/tool/knife.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilitybytype/knife-arsenicbronze",
+    "value": 500,
+    "file": "itemtypes/tool/knife.json"
+  },
+  {
+    "op": "add",
+    "path": "/miningspeedbytype/knife-arsenicbronze",
+    "value": {
+      "plant": 1.8
+    },
+    "file": "itemtypes/tool/knife.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/9",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/knife.json"
+  }
+]

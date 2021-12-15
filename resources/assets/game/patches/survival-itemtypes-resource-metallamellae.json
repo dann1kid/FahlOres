@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/combustiblePropsByType/metallamellae-arsenicbronze",
+    "value": {
+      "meltingPoint": 850,
+      "meltingDuration": 30,
+      "smeltedRatio": 1,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-arsenicbronze",
+        "stacksize": 1
+      }
+    },
+    "file": "itemtypes/resource/metallamellae.json"
+  }
+]

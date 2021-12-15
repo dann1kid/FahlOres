@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/durabilitybytype/scythe-arsenic",
+    "value": 750,
+    "file": "itemtypes/tool/scythe.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/2",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/scythe.json"
+  }
+]

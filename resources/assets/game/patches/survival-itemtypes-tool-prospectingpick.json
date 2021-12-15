@@ -1,0 +1,35 @@
+[
+  {
+    "op": "add",
+    "path": "/attackpowerbytype/prospectingpick-arsenic",
+    "value": 1.75,
+    "file": "itemtypes/tool/prospectingpick.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilitybytype/prospectingpick-arsenic",
+    "value": 250,
+    "file": "itemtypes/tool/prospectingpick.json"
+  },
+  {
+    "op": "add",
+    "path": "/miningspeedbytype/prospectingpick-arsenic",
+    "value": {
+      "stone": 3.3,
+      "ore": 3.3
+    },
+    "file": "itemtypes/tool/prospectingpick.json"
+  },
+  {
+    "op": "add",
+    "path": "/tooltierbytype/*-arsenicbronze",
+    "value": 3,
+    "file": "itemtypes/tool/prospectingpick.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/3",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/prospectingpick.json"
+  }
+]

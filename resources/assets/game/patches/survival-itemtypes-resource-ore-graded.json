@@ -1,0 +1,188 @@
+[
+  {
+    "op": "add",
+    "path": "/allowedVariants/407",
+    "value": "ore-poor-tennantite-granite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/408",
+    "value": "ore-medium-tennantite-granite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/409",
+    "value": "ore-rich-tennantite-granite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/410",
+    "value": "ore-poor-tennantite-basalt",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/411",
+    "value": "ore-medium-tennantite-basalt",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/412",
+    "value": "ore-rich-tennantite-basalt",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/413",
+    "value": "ore-bountiful-tennantite-basalt",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/414",
+    "value": "ore-poor-tennantite-slate",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/415",
+    "value": "ore-medium-tennantite-slate",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/416",
+    "value": "ore-rich-tennantite-slate",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/417",
+    "value": "ore-poor-tennantite-andesite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/418",
+    "value": "ore-medium-tennantite-andesite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/419",
+    "value": "ore-rich-tennantite-andesite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/420",
+    "value": "ore-poor-tennantite-peridotite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/421",
+    "value": "ore-medium-tennantite-peridotite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/422",
+    "value": "ore-rich-tennantite-peridotite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/423",
+    "value": "ore-poor-tennantite-claystone",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/424",
+    "value": "ore-medium-tennantite-claystone",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/425",
+    "value": "ore-poor-tennantite-sandstone",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/426",
+    "value": "ore-medium-tennantite-sandstone",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/427",
+    "value": "ore-poor-tennantite-shale",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/428",
+    "value": "ore-medium-tennantite-shale",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/429",
+    "value": "ore-poor-tennantite-chalk",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/430",
+    "value": "ore-medium-tennantite-chalk",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/431",
+    "value": "ore-poor-tennantite-chert",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/432",
+    "value": "ore-medium-tennantite-chert",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/433",
+    "value": "ore-poor-tennantite-conglomerate",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/434",
+    "value": "ore-medium-tennantite-conglomerate",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/435",
+    "value": "ore-poor-tennantite-phyllite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/436",
+    "value": "ore-medium-tennantite-phyllite",
+    "file": "itemtypes/resource/ore-graded.json"
+  },
+  {
+    "op": "add",
+    "path": "/allowedVariants/437",
+    "value": "ore-rich-tennantite-phyllite",
+    "file": "itemtypes/resource/ore-graded.json"
+  }
+]

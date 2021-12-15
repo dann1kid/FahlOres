@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/shapeByType/*-arsenicbronze",
+    "value": {
+      "base": "item/tool/arrowhead-copper"
+    },
+    "file": "itemtypes/toolhead/arrowhead.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/3",
+    "value": "arsenicbronze",
+    "file": "itemtypes/toolhead/arrowhead.json"
+  }
+]

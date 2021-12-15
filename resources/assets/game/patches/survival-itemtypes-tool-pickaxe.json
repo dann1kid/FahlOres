@@ -1,0 +1,38 @@
+[
+  {
+    "op": "add",
+    "path": "/attackpowerbytype/pickaxe-arsenicbronze",
+    "value": 1.5,
+    "file": "itemtypes/tool/pickaxe.json"
+  },
+  {
+    "op": "add",
+    "path": "/durabilitybytype/pickaxe-arsenicbronze",
+    "value": 500,
+    "file": "itemtypes/tool/pickaxe.json"
+  },
+  {
+    "op": "add",
+    "path": "/miningspeedbytype/pickaxe-arsenicbronze",
+    "value": {
+      "ceramic": 2.25,
+      "stone": 6,
+      "ore": 6,
+      "metal": 6,
+      "ice": 2.3
+    },
+    "file": "itemtypes/tool/pickaxe.json"
+  },
+  {
+    "op": "add",
+    "path": "/tooltierbytype/*-arsenicbronze",
+    "value": 3,
+    "file": "itemtypes/tool/pickaxe.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/2",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/pickaxe.json"
+  }
+]

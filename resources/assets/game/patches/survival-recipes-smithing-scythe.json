@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/ingredient/allowedVariants/2",
+    "value": "arsenicbronze",
+    "file": "recipes/smithing/scythe.json"
+  }
+]

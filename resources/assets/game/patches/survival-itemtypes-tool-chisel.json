@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/durabilitybytype/chisel-arsenic",
+    "value": 1400,
+    "file": "itemtypes/tool/chisel.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/3",
+    "value": "arsenicbronze",
+    "file": "itemtypes/tool/chisel.json"
+  }
+]
